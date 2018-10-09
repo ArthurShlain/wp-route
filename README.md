@@ -1,5 +1,5 @@
 # wp-route
-Wordpress Routing
+Manual Wordpress Routing
 
 ## How to use
-Modify `wp-routes.php` file and include to your Worpdress theme `function.php` file
+Modify the `wp-routes.php` file and include it to `function.php` of your Worpdress theme file.
