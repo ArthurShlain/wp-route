@@ -20,4 +20,4 @@ function wp_routes_init(){
   // Place your routing rules below this line
   
 }
-add_action('init', 'wp_routes_init', 10);
+add_action( 'template_redirect', 'wp_routes_init' );
